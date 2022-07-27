@@ -1,10 +1,10 @@
-favouriteMovieGenre("scary")
+favouriteMovieGenre("military")
 
 favouriteFruit("avocado")
 
 favouriteMode("dark")
 
-favouriteEdgeStyle("round ")
+favouriteEdgeStyle("soft")
 
 
 
